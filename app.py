@@ -4,7 +4,7 @@ import re
 import openai
 
 # Set up OpenAI API key
-openai.api_key = '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'
+openai.api_key = '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'
 
 # Function to retrieve transcript from YouTube video using its ID
 def get_video_transcript(video_id):
